@@ -30,7 +30,6 @@ function App() {
   return (
     <>
       <div className="pane top-pane">
-        Top
         <Editor
           language="xml"
           displayName="HTML"
